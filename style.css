@@ -1,0 +1,15 @@
+.bgcolor {
+    background-color: #f8f9fa;
+}
+.textend {
+    margin-left: 140px;
+}
+.tocenter {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: 110px;
+}
+.footerbg {
+    background-color: white;
+}
